@@ -1,0 +1,37 @@
+<!doctype html>
+<html class="nojs">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>The Best of JavaScript and the web platorm</title>
+    <meta name="description" content="bestof.js.org is a place where front-end engineers and node.js developers can find the best components to build amazing web applications.">
+
+    
+    <link rel="shortcut icon" href="favicon.ico">
+
+    
+
+    <style>.nojs{height:100%}.nojs body{margin:0;background-color:#ececec;height:100%;font-family:sans-serif;color:#555}.nojs #app{height:100%;flex-flow:row wrap;align-items:stretch}.nojs .header{padding-top:5px;background-color:#fff;text-align:center;box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12)}.nojs .container{min-height:calc(100% - 80px);display:flex;align-items:center;justify-content:center}.nojs .content{max-width:400px;font-size:18px;padding:0 10px}@media (min-width:600px){.nojs .content{font-size:22px}.nojs img{width:300px}}</style><script>(function(e,n){"use strict";!function(){for(var n=0,t=["ms","moz","webkit","o"],o=0;o<t.length&&!e.requestAnimationFrame;++o)e.requestAnimationFrame=e[t[o]+"RequestAnimationFrame"],e.cancelAnimationFrame=e[t[o]+"CancelAnimationFrame"]||e[t[o]+"CancelRequestAnimationFrame"];e.requestAnimationFrame||(e.requestAnimationFrame=function(t,o){var a=(new Date).getTime(),i=Math.max(0,16-(a-n)),r=e.setTimeout(function(){t(a+i)},i);return n=a+i,r}),e.cancelAnimationFrame||(e.cancelAnimationFrame=function(e){clearTimeout(e)})}();var t,o,a,i,r,s=function(e,n,t){e.addEventListener?e.addEventListener(n,t,!1):e.attachEvent?e.attachEvent("on"+n,t):e["on"+n]=t},c={autoRun:!0,barThickness:3,barColors:{0:"rgba(26,  188, 156, .9)",".25":"rgba(52,  152, 219, .9)",".50":"rgba(241, 196, 15,  .9)",".75":"rgba(230, 126, 34,  .9)","1.0":"rgba(211, 84,  0,   .9)"},shadowBlur:10,shadowColor:"rgba(0,   0,   0,   .6)"},l=function(){t.width=e.innerWidth,t.height=5*c.barThickness;var n=t.getContext("2d");n.shadowBlur=c.shadowBlur,n.shadowColor=c.shadowColor;var o=n.createLinearGradient(0,0,t.width,0);for(var a in c.barColors)o.addColorStop(a,c.barColors[a]);n.lineWidth=c.barThickness,n.beginPath(),n.moveTo(0,c.barThickness/2),n.lineTo(Math.ceil(i*t.width),c.barThickness/2),n.strokeStyle=o,n.stroke()},u=function(){t=n.createElement("canvas");var o=t.style;o.position="fixed",o.top=o.left=o.right=o.margin=o.padding=0,o.zIndex=100001,o.display="none",n.body.appendChild(t),s(e,"resize",l)},d={config:function(e){for(var n in e)c.hasOwnProperty(n)&&(c[n]=e[n])},show:function(){r||(r=!0,null!==a&&e.cancelAnimationFrame(a),t||u(),t.style.opacity=1,t.style.display="block",d.progress(0),c.autoRun&&!function n(){o=e.requestAnimationFrame(n),d.progress("+"+.05*Math.pow(1-Math.sqrt(i),2))}())},progress:function(e){return"undefined"==typeof e?i:("string"==typeof e&&(e=(e.indexOf("+")>=0||e.indexOf("-")>=0?i:0)+parseFloat(e)),i=e>1?1:e,l(),i)},hide:function(){r&&(r=!1,null!=o&&(e.cancelAnimationFrame(o),o=null),function n(){return d.progress("+.1")>=1&&(t.style.opacity-=.05,t.style.opacity<=.05)?(t.style.display="none",void(a=null)):void(a=e.requestAnimationFrame(n))}())}};"object"==typeof module&&"object"==typeof module.exports?module.exports=d:"function"==typeof define&&define.amd?define(function(){return d}):this.topbar=d}).call(this,window,document);</script></head><body>
+
+
+    <div id="app">
+      <div class="header"><img src="images/logo.png" width="200" alt="bestof.js.org"></div>
+      <div class="container">
+        <div class="content">
+          <p>Loading the best of JavaScript and the web platform...</p>
+          <ul>
+            <li>React and Flux</li>
+            <li>Node.js</li>
+            <li>Testing</li>
+            <li>CSS tools</li>
+            <li>and many more projects...</li>
+          </ul>
+          <p>it will be awesome!</p>
+        </div>
+      </div>
+    </div>
+
+
+    
+    <script>function loadCSS(o,e,t){"use strict";var a=window.document.createElement("link"),s=e||window.document.getElementsByTagName("script")[0];a.rel="stylesheet",a.href=o,a.media="only x",s.parentNode.insertBefore(a,s),setTimeout(function(){a.media=t||"all"})}topbar.config({barColors:{0:"#f6faaa",.2:"#FEE08B",.4:"#FDAE61",.6:"#F46D43",.8:"#D53E4F",1:"#9E0142"}}),topbar.show(),loadCSS("https://fonts.googleapis.com/css?family=Roboto:400,300,500"),loadCSS("https://cdnjs.cloudflare.com/ajax/libs/octicons/3.1.0/octicons.min.css");</script><script src="build/bundle-vendor.js"></script><script src="build/bundle-app.js"></script><script>!function(e,a,t,n,c,o,s){e.GoogleAnalyticsObject=c,e[c]=e[c]||function(){(e[c].q=e[c].q||[]).push(arguments)},e[c].l=1*new Date,o=a.createElement(t),s=a.getElementsByTagName(t)[0],o.async=1,o.src=n,s.parentNode.insertBefore(o,s)}(window,document,"script","//www.google-analytics.com/analytics.js","ga"),ga("create","UA-44563970-2","auto"),ga("send","pageview");</script></body></html>
