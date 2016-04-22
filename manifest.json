@@ -1,0 +1,14 @@
+{
+	"name": "Best of JavaScript",
+	"short_name": "bestof.js.org",
+	"theme_color": "#e65100",
+	"background_color": "#ececec",
+	"display": "standalone",
+	"start_url": "/#home=true",
+	"icons": [
+		{
+			"src": "/www/app-icon-192.png",
+			"sizes": "192x192"
+		}
+	]
+}
