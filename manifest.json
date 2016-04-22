@@ -4,10 +4,9 @@
 	"theme_color": "#e65100",
 	"background_color": "#ececec",
 	"display": "standalone",
-	"start_url": "/#home=true",
 	"icons": [
 		{
-			"src": "/www/app-icon-192.png",
+			"src": "/images/app-icon-192.png",
 			"sizes": "192x192"
 		}
 	]
