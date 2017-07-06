@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Best of JavaScript - Weekly trends</title>
+    <link>http://bestof.js.org/projects/trending/this-week</link>
+    <pubDate>Thu Jun 29 2017 06:40:22 GMT+0900 (JST)</pubDate>
+    <lastBuildDate>Thu Jun 29 2017 06:40:22 GMT+0900 (JST)</lastBuildDate>
+    <item>
+      <title>Hyperapp [+197 stars this week]</title>
+      <author>hyperapp</author>
+      <description>1 KB JavaScript library for building frontend applications.</description>
+      <link>https://hyperapp.glitch.me</link>
+      <pubDate>2017-06-28T11:28:21.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/25238911?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Flight [+173 stars this week]</title>
+      <author>jondot</author>
+      <description>The best way to build animation compositions for React.</description>
+      <link>http://www.react-flight.io</link>
+      <pubDate>2017-06-23T08:04:35.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/83390?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Spellbook of Modern Web Dev [+139 stars this week]</title>
+      <author>dexteryy</author>
+      <description>A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development</description>
+      <link>https://github.com/dexteryy/spellbook-of-modern-webdev</link>
+      <pubDate>2017-06-23T03:24:57.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/43011?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>json-server [+118 stars this week]</title>
+      <author>typicode</author>
+      <description>Get a full fake REST API with zero coding in less than 30 seconds (seriously)</description>
+      <link>https://github.com/typicode/json-server</link>
+      <pubDate>2017-06-28T20:59:38.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/5502029?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Vue.JS [+100 stars this week]</title>
+      <author>vuejs</author>
+      <description>A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
+      <link>http://vuejs.org</link>
+      <pubDate>2017-06-28T17:06:52.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/6128107?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Web Starter Kit [+77 stars this week]</title>
+      <author>google</author>
+      <description>Web Starter Kit - a workflow for multi-device websites</description>
+      <link>http://developers.google.com/web/starter-kit</link>
+      <pubDate>2017-06-08T11:49:39.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/1342004?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>You-Dont-Know-JS [+66 stars this week]</title>
+      <author>getify</author>
+      <description>A book series on JavaScript. @YDKJS on twitter.</description>
+      <link>http://www.kickstarter.com/projects/getify/you-dont-know-js-book-series</link>
+      <pubDate>2017-06-28T02:31:45.000Z</pubDate>
+      <image>http://cdn.instantlogosearch.com/svg/svgporn/javascript.svg</image>
+    </item>
+    <item>
+      <title>Prettier [+65 stars this week]</title>
+      <author>prettier</author>
+      <description>Prettier is an opinionated code formatter.</description>
+      <link>https://prettier.github.io/prettier/</link>
+      <pubDate>2017-06-28T20:36:01.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/25822731?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Feather [+64 stars this week]</title>
+      <author>colebemis</author>
+      <description>Simply beautiful open source icons</description>
+      <link>https://feathericons.com</link>
+      <pubDate>2017-06-27T18:59:58.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/4608155?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Create React App [+60 stars this week]</title>
+      <author>facebookincubator</author>
+      <description>Create React apps with no build configuration.</description>
+      <link>https://github.com/facebookincubator/create-react-app</link>
+      <pubDate>2017-06-28T19:35:21.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/19538647?v=3&amp;s=200</image>
+    </item>
+  </channel>
+</rss>
