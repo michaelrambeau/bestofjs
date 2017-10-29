@@ -3,10 +3,10 @@
   <channel>
     <title>Best of JavaScript - Weekly trends</title>
     <link>http://bestof.js.org/projects/trending/this-week</link>
-    <pubDate>Sun Oct 29 2017 03:12:21 GMT+0000 (UTC)</pubDate>
-    <lastBuildDate>Sun Oct 29 2017 03:12:21 GMT+0000 (UTC)</lastBuildDate>
+    <pubDate>Sun Oct 29 2017 21:30:42 GMT+0000 (UTC)</pubDate>
+    <lastBuildDate>Sun Oct 29 2017 21:30:42 GMT+0000 (UTC)</lastBuildDate>
     <item>
-      <title>napajs [+244.1 stars this week]</title>
+      <title>napajs [+215.4 stars this week]</title>
       <author>Microsoft</author>
       <description>Napa.js: a multi-threaded JavaScript runtime</description>
       <link>https://github.com/Microsoft/napajs</link>
@@ -14,15 +14,7 @@
       <image>https://avatars.githubusercontent.com/u/6154722?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Vue.JS [+118.9 stars this week]</title>
-      <author>vuejs</author>
-      <description>A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
-      <link>http://vuejs.org</link>
-      <pubDate>2017-10-28T15:17:37.000Z</pubDate>
-      <image>/logos/vue.svg</image>
-    </item>
-    <item>
-      <title>Puppeteer [+114 stars this week]</title>
+      <title>Puppeteer [+116.4 stars this week]</title>
       <author>GoogleChrome</author>
       <description>Headless Chrome Node API</description>
       <link>https://try-puppeteer.appspot.com/</link>
@@ -30,7 +22,23 @@
       <image>https://avatars.githubusercontent.com/u/1778935?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Every Programmer Should Know [+109.9 stars this week]</title>
+      <title>Vue.JS [+116.1 stars this week]</title>
+      <author>vuejs</author>
+      <description>A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
+      <link>http://vuejs.org</link>
+      <pubDate>2017-10-29T16:37:44.000Z</pubDate>
+      <image>/logos/vue.svg</image>
+    </item>
+    <item>
+      <title>Bulma [+106.1 stars this week]</title>
+      <author>jgthms</author>
+      <description>Modern CSS framework based on Flexbox</description>
+      <link>https://bulma.io</link>
+      <pubDate>2017-10-29T19:17:44.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/1254808?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Every Programmer Should Know [+102.7 stars this week]</title>
       <author>mr-mig</author>
       <description>A collection of (mostly) technical things every software developer should know</description>
       <link>https://github.com/mr-mig/every-programmer-should-know</link>
@@ -38,52 +46,44 @@
       <image>https://avatars.githubusercontent.com/u/1062491?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Bulma [+103.7 stars this week]</title>
-      <author>jgthms</author>
-      <description>Modern CSS framework based on Flexbox</description>
-      <link>https://bulma.io</link>
-      <pubDate>2017-10-28T18:27:30.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/1254808?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>React [+92.9 stars this week]</title>
+      <title>React [+93 stars this week]</title>
       <author>facebook</author>
       <description>A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
       <link>https://reactjs.org</link>
-      <pubDate>2017-10-28T19:07:14.000Z</pubDate>
+      <pubDate>2017-10-29T15:06:40.000Z</pubDate>
       <image>/logos/react.svg</image>
     </item>
     <item>
-      <title>Fastify [+89.4 stars this week]</title>
-      <author>fastify</author>
-      <description>Fast and low overhead web framework, for Node.js</description>
-      <link>https://www.fastify.io</link>
-      <pubDate>2017-10-28T17:18:23.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/24939410?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Redux Zero [+77.3 stars this week]</title>
-      <author>concretesolutions</author>
-      <description>A lightweight state container based on Redux </description>
-      <link>https://github.com/concretesolutions/redux-zero</link>
-      <pubDate>2017-10-28T17:09:17.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/858781?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>VS Code [+72.6 stars this week]</title>
+      <title>VS Code [+70.9 stars this week]</title>
       <author>Microsoft</author>
       <description>Visual Studio Code</description>
       <link>https://code.visualstudio.com</link>
-      <pubDate>2017-10-28T09:47:47.000Z</pubDate>
+      <pubDate>2017-10-29T20:59:24.000Z</pubDate>
       <image>/logos/vscode.svg</image>
     </item>
     <item>
-      <title>accessibilityjs [+71 stars this week]</title>
-      <author>github</author>
-      <description>Client side accessibility error scanner.</description>
-      <link>https://github.com/github/accessibilityjs</link>
-      <pubDate>2017-10-28T13:14:37.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/9919?v=3&amp;s=200</image>
+      <title>Fastify [+70.6 stars this week]</title>
+      <author>fastify</author>
+      <description>Fast and low overhead web framework, for Node.js</description>
+      <link>https://www.fastify.io</link>
+      <pubDate>2017-10-29T12:14:48.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/24939410?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Awesome [+66.6 stars this week]</title>
+      <author>sindresorhus</author>
+      <description>:sunglasses: Curated list of awesome lists</description>
+      <link>https://github.com/sindresorhus/awesome</link>
+      <pubDate>2017-10-29T18:07:38.000Z</pubDate>
+      <image>https://s3-us-west-2.amazonaws.com/svgporn.com/logos/awesome.svg</image>
+    </item>
+    <item>
+      <title>Sonar [+66.3 stars this week]</title>
+      <author>sonarwhal</author>
+      <description>A linting tool for the web</description>
+      <link>https://sonarwhal.com/</link>
+      <pubDate>2017-10-29T19:24:36.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/25042266?v=3&amp;s=200</image>
     </item>
   </channel>
 </rss>
