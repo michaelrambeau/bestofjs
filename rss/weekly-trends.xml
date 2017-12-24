@@ -3,87 +3,87 @@
   <channel>
     <title>Best of JavaScript - Weekly trends</title>
     <link>http://bestof.js.org/projects/trending/this-week</link>
-    <pubDate>Sun Dec 17 2017 21:30:42 GMT+0000 (UTC)</pubDate>
-    <lastBuildDate>Sun Dec 17 2017 21:30:42 GMT+0000 (UTC)</lastBuildDate>
+    <pubDate>Sun Dec 24 2017 21:30:44 GMT+0000 (UTC)</pubDate>
+    <lastBuildDate>Sun Dec 24 2017 21:30:44 GMT+0000 (UTC)</lastBuildDate>
     <item>
-      <title>Parcel [+456.4 stars this week]</title>
+      <title>30 seconds of code [+611.4 stars this week]</title>
+      <author>Chalarangelo</author>
+      <description>Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.</description>
+      <link>https://30secondsofcode.org/</link>
+      <pubDate>2017-12-24T19:59:18.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/8281875?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Boardgame [+512.3 stars this week]</title>
+      <author>google</author>
+      <description>State management and more for turn based games.</description>
+      <link>http://boardgame.io/</link>
+      <pubDate>2017-12-24T07:41:10.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/1342004?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Parcel [+303.1 stars this week]</title>
       <author>parcel-bundler</author>
       <description>📦🚀 Blazing fast, zero configuration web application bundler</description>
       <link>https://parceljs.org</link>
-      <pubDate>2017-12-17T20:36:30.000Z</pubDate>
+      <pubDate>2017-12-24T11:51:16.000Z</pubDate>
       <image>https://avatars.githubusercontent.com/u/32607881?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Popmotion [+257.4 stars this week]</title>
+      <title>Docusaurus [+192.9 stars this week]</title>
+      <author>facebook</author>
+      <description>Easy to maintain open source documentation websites.</description>
+      <link>https://docusaurus.io</link>
+      <pubDate>2017-12-24T18:10:25.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/69631?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Popmotion [+118.3 stars this week]</title>
       <author>Popmotion</author>
       <description>The JavaScript motion engine. Create unique animations and interactions with tweens, physics and input tracking.</description>
       <link>https://popmotion.io</link>
-      <pubDate>2017-12-16T09:11:44.000Z</pubDate>
+      <pubDate>2017-12-23T08:01:02.000Z</pubDate>
       <image>https://avatars.githubusercontent.com/u/14272617?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Muuri [+205.1 stars this week]</title>
-      <author>haltu</author>
-      <description>Responsive, sortable, filterable and draggable grid layouts</description>
-      <link>http://haltu.github.io/muuri/</link>
-      <pubDate>2017-12-16T20:20:39.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/884254?v=3&amp;s=200</image>
+      <title>schnack.js [+105.6 stars this week]</title>
+      <author>gka</author>
+      <description>🗣️ Simple node app for Disqus-like drop-in commenting on static websites </description>
+      <link>https://www.vis4.net/blog/2017/10/hello-schnack/</link>
+      <pubDate>2017-12-21T00:39:53.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/617518?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Poi [+132.1 stars this week]</title>
-      <author>egoist</author>
-      <description>:zap: Delightful web development.</description>
-      <link>https://poi.js.org</link>
-      <pubDate>2017-12-16T09:06:43.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/8784712?v=3&amp;s=200</image>
+      <title>Puppeteer [+91.1 stars this week]</title>
+      <author>GoogleChrome</author>
+      <description>Headless Chrome Node API</description>
+      <link>https://github.com/GoogleChrome/puppeteer</link>
+      <pubDate>2017-12-24T18:14:14.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/1778935?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Front-End Checklist [+113.6 stars this week]</title>
-      <author>thedaviddias</author>
-      <description>🗂 The perfect Front-End Checklist for modern websites and meticulous developers</description>
-      <link>https://frontendchecklist.io</link>
-      <pubDate>2017-12-17T14:15:25.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/237229?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Vue.js [+108.4 stars this week]</title>
+      <title>Vue.js [+88.3 stars this week]</title>
       <author>vuejs</author>
       <description>A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
       <link>http://vuejs.org</link>
-      <pubDate>2017-12-16T20:47:45.000Z</pubDate>
+      <pubDate>2017-12-24T17:28:29.000Z</pubDate>
       <image>/logos/vue.svg</image>
     </item>
     <item>
-      <title>anime.js [+106.3 stars this week]</title>
-      <author>juliangarnier</author>
-      <description>JavaScript Animation Engine</description>
-      <link>http://animejs.com</link>
-      <pubDate>2017-12-15T15:14:34.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/1268691?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>React [+79 stars this week]</title>
+      <title>React [+69.4 stars this week]</title>
       <author>facebook</author>
       <description>A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
       <link>https://reactjs.org</link>
-      <pubDate>2017-12-17T16:51:10.000Z</pubDate>
+      <pubDate>2017-12-24T02:09:13.000Z</pubDate>
       <image>/logos/react.svg</image>
     </item>
     <item>
-      <title>VS Code [+69.9 stars this week]</title>
+      <title>VS Code [+63 stars this week]</title>
       <author>Microsoft</author>
       <description>Visual Studio Code</description>
       <link>https://code.visualstudio.com</link>
-      <pubDate>2017-12-17T19:08:40.000Z</pubDate>
+      <pubDate>2017-12-24T16:27:29.000Z</pubDate>
       <image>/logos/vscode.svg</image>
-    </item>
-    <item>
-      <title>Froala Design Blocks  [+69.3 stars this week]</title>
-      <author>froala</author>
-      <description>A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.</description>
-      <link>https://www.froala.com/design-blocks</link>
-      <pubDate>2017-12-13T15:03:55.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/7966884?v=3&amp;s=200</image>
     </item>
   </channel>
 </rss>
