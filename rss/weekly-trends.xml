@@ -3,87 +3,87 @@
   <channel>
     <title>Best of JavaScript - Weekly trends</title>
     <link>http://bestof.js.org/projects/trending/this-week</link>
-    <pubDate>Sun Dec 31 2017 21:31:00 GMT+0000 (UTC)</pubDate>
-    <lastBuildDate>Sun Dec 31 2017 21:31:00 GMT+0000 (UTC)</lastBuildDate>
+    <pubDate>Sun Jan 07 2018 21:30:56 GMT+0000 (UTC)</pubDate>
+    <lastBuildDate>Sun Jan 07 2018 21:30:56 GMT+0000 (UTC)</lastBuildDate>
     <item>
-      <title>30 seconds of code [+238.3 stars this week]</title>
+      <title>Uppy [+207 stars this week]</title>
+      <author>transloadit</author>
+      <description>The next open source file uploader for web browsers :dog: </description>
+      <link>https://uppy.io</link>
+      <pubDate>2018-01-06T17:08:55.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/125754?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>30 seconds of code [+187.1 stars this week]</title>
       <author>Chalarangelo</author>
       <description>Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.</description>
       <link>https://30secondsofcode.org/</link>
-      <pubDate>2017-12-31T17:51:28.000Z</pubDate>
+      <pubDate>2018-01-06T20:04:48.000Z</pubDate>
       <image>https://avatars.githubusercontent.com/u/8281875?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Hyperapp [+178.3 stars this week]</title>
-      <author>hyperapp</author>
-      <description>1 KB JavaScript library for building frontend applications.</description>
-      <link>https://hyperapp.js.org</link>
-      <pubDate>2017-12-31T17:10:56.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/25238911?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Parcel [+169 stars this week]</title>
-      <author>parcel-bundler</author>
-      <description>📦🚀 Blazing fast, zero configuration web application bundler</description>
-      <link>https://parceljs.org</link>
-      <pubDate>2017-12-31T20:36:46.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/32607881?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>React Content Loader [+151.1 stars this week]</title>
-      <author>danilowoz</author>
-      <description>React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders.</description>
-      <link>https://danilowoz.github.io/react-content-loader/</link>
-      <pubDate>2017-12-28T18:30:16.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/4838076?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Vue.js [+97.3 stars this week]</title>
-      <author>vuejs</author>
-      <description>🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
-      <link>http://vuejs.org</link>
-      <pubDate>2017-12-31T17:07:10.000Z</pubDate>
-      <image>/logos/vue.svg</image>
-    </item>
-    <item>
-      <title>Boardgame [+74 stars this week]</title>
-      <author>google</author>
-      <description>State management and more for turn based games.</description>
-      <link>http://boardgame.io/</link>
-      <pubDate>2017-12-31T20:28:07.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/1342004?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Every Programmer Should Know [+65.9 stars this week]</title>
-      <author>mtdvio</author>
-      <description>A collection of (mostly) technical things every software developer should know</description>
-      <link>https://github.com/mtdvio/every-programmer-should-know</link>
-      <pubDate>2017-12-20T10:24:13.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/33053074?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Awesome [+62 stars this week]</title>
-      <author>sindresorhus</author>
-      <description>:sunglasses: Curated list of awesome lists</description>
-      <link>https://github.com/sindresorhus/awesome</link>
-      <pubDate>2017-12-31T19:24:32.000Z</pubDate>
-      <image>https://s3-us-west-2.amazonaws.com/svgporn.com/logos/awesome.svg</image>
-    </item>
-    <item>
-      <title>React [+60.7 stars this week]</title>
-      <author>facebook</author>
-      <description>A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
-      <link>https://reactjs.org</link>
-      <pubDate>2017-12-31T16:39:22.000Z</pubDate>
-      <image>/logos/react.svg</image>
-    </item>
-    <item>
-      <title>Popmotion [+52.6 stars this week]</title>
+      <title>Popmotion [+183.6 stars this week]</title>
       <author>Popmotion</author>
       <description>The JavaScript motion engine. Create unique animations and interactions with tweens, physics and input tracking.</description>
       <link>https://popmotion.io</link>
-      <pubDate>2017-12-28T10:41:36.000Z</pubDate>
+      <pubDate>2018-01-07T05:50:16.000Z</pubDate>
       <image>https://avatars.githubusercontent.com/u/14272617?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Hyperapp [+167.3 stars this week]</title>
+      <author>hyperapp</author>
+      <description>1 KB JavaScript library for building web applications.</description>
+      <link>https://hyperapp.js.org</link>
+      <pubDate>2018-01-07T15:16:14.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/25238911?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Storybook [+119.4 stars this week]</title>
+      <author>storybooks</author>
+      <description>Interactive UI component dev &amp; test: React, React Native, Vue, Angular</description>
+      <link>https://storybook.js.org</link>
+      <pubDate>2018-01-07T17:47:49.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/22632046?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Parcel [+103.1 stars this week]</title>
+      <author>parcel-bundler</author>
+      <description>📦🚀 Blazing fast, zero configuration web application bundler</description>
+      <link>https://parceljs.org</link>
+      <pubDate>2018-01-07T19:51:35.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/32607881?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Vue.js [+86 stars this week]</title>
+      <author>vuejs</author>
+      <description>🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
+      <link>http://vuejs.org</link>
+      <pubDate>2018-01-06T15:10:35.000Z</pubDate>
+      <image>/logos/vue.svg</image>
+    </item>
+    <item>
+      <title>Prettier [+85 stars this week]</title>
+      <author>prettier</author>
+      <description>Prettier is an opinionated code formatter.</description>
+      <link>https://prettier.io/</link>
+      <pubDate>2018-01-07T16:04:52.000Z</pubDate>
+      <image>/logos/prettier.svg</image>
+    </item>
+    <item>
+      <title>Awesome [+81.4 stars this week]</title>
+      <author>sindresorhus</author>
+      <description>:sunglasses: Curated list of awesome lists</description>
+      <link>https://github.com/sindresorhus/awesome</link>
+      <pubDate>2018-01-07T16:51:47.000Z</pubDate>
+      <image>https://s3-us-west-2.amazonaws.com/svgporn.com/logos/awesome.svg</image>
+    </item>
+    <item>
+      <title>Ant Design Pro [+70.3 stars this week]</title>
+      <author>ant-design</author>
+      <description>👨🏻‍💻👩🏻‍💻 An out-of-box UI solution for enterprise applications</description>
+      <link>http://pro.ant.design/</link>
+      <pubDate>2018-01-07T16:03:57.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/12101536?v=3&amp;s=200</image>
     </item>
   </channel>
 </rss>
