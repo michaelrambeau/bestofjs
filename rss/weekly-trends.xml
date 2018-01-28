@@ -3,87 +3,87 @@
   <channel>
     <title>Best of JavaScript - Weekly trends</title>
     <link>http://bestof.js.org/projects/trending/this-week</link>
-    <pubDate>Sun Jan 21 2018 21:30:53 GMT+0000 (UTC)</pubDate>
-    <lastBuildDate>Sun Jan 21 2018 21:30:53 GMT+0000 (UTC)</lastBuildDate>
+    <pubDate>Sun Jan 28 2018 21:30:44 GMT+0000 (UTC)</pubDate>
+    <lastBuildDate>Sun Jan 28 2018 21:30:44 GMT+0000 (UTC)</lastBuildDate>
     <item>
-      <title>TOAST UI Editor  [+296.1 stars this week]</title>
-      <author>nhnent</author>
-      <description>🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart &amp; UML Extensible.</description>
-      <link>https://nhnent.github.io/tui.editor</link>
-      <pubDate>2018-01-21T10:16:26.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/7907400?v=3&amp;s=200</image>
+      <title>Project Guidelines [+377.4 stars this week]</title>
+      <author>wearehive</author>
+      <description>A set of best practices for JavaScript projects</description>
+      <link>https://github.com/wearehive/project-guidelines</link>
+      <pubDate>2018-01-27T20:08:36.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/7815827?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>echarts [+172.7 stars this week]</title>
-      <author>ecomfe</author>
-      <description>A powerful, interactive charting and visualization library for browser</description>
-      <link>http://echarts.baidu.com/</link>
-      <pubDate>2018-01-19T04:28:01.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/2268460?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Vue.js [+151.4 stars this week]</title>
-      <author>vuejs</author>
-      <description>🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
-      <link>http://vuejs.org</link>
-      <pubDate>2018-01-20T23:25:20.000Z</pubDate>
-      <image>/logos/vue.svg</image>
-    </item>
-    <item>
-      <title>Parcel [+148.1 stars this week]</title>
+      <title>Parcel [+147.3 stars this week]</title>
       <author>parcel-bundler</author>
       <description>📦🚀 Blazing fast, zero configuration web application bundler</description>
       <link>https://parceljs.org</link>
-      <pubDate>2018-01-21T19:55:47.000Z</pubDate>
+      <pubDate>2018-01-28T19:31:52.000Z</pubDate>
       <image>https://avatars.githubusercontent.com/u/32607881?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Puppeteer [+122.9 stars this week]</title>
+      <title>Puppeteer [+145.9 stars this week]</title>
       <author>GoogleChrome</author>
       <description>Headless Chrome Node API</description>
-      <link>https://github.com/GoogleChrome/puppeteer</link>
-      <pubDate>2018-01-21T19:25:04.000Z</pubDate>
+      <link>https://join.slack.com/t/puppeteer/shared_invite/enQtMzAyOTU1MzQyOTQ1LTUzOTAxNjE5YWI0YzNmYmRkN2I4MDg2MzI4OGE3YWNhZDBlYWMyNTlmOTJlN2RhYzlmODI4ZDQxZGEyMGIwNDY</link>
+      <pubDate>2018-01-27T07:00:19.000Z</pubDate>
       <image>https://avatars.githubusercontent.com/u/1778935?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Graphcool [+122 stars this week]</title>
-      <author>graphcool</author>
-      <description>⚡️ Prisma turns your database into a realtime GraphQL API</description>
-      <link>https://www.prismagraphql.com</link>
-      <pubDate>2018-01-21T18:57:35.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/17219288?v=3&amp;s=200</image>
+      <title>Vue.js [+135.6 stars this week]</title>
+      <author>vuejs</author>
+      <description>🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
+      <link>http://vuejs.org</link>
+      <pubDate>2018-01-28T20:51:21.000Z</pubDate>
+      <image>/logos/vue.svg</image>
     </item>
     <item>
-      <title>Polka [+101.7 stars this week]</title>
-      <author>lukeed</author>
-      <description>A micro web server so fast, it'll make you dance! :dancers:</description>
-      <link>https://github.com/lukeed/polka</link>
-      <pubDate>2018-01-20T11:33:59.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/5855893?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Awesome [+94.9 stars this week]</title>
+      <title>Awesome [+100.4 stars this week]</title>
       <author>sindresorhus</author>
       <description>:sunglasses: Curated list of awesome lists</description>
       <link>https://github.com/sindresorhus/awesome</link>
-      <pubDate>2018-01-21T16:46:40.000Z</pubDate>
+      <pubDate>2018-01-27T18:32:16.000Z</pubDate>
       <image>https://s3-us-west-2.amazonaws.com/svgporn.com/logos/awesome.svg</image>
     </item>
     <item>
-      <title>React [+94.7 stars this week]</title>
+      <title>Create React App [+97.9 stars this week]</title>
+      <author>facebook</author>
+      <description>Create React apps with no build configuration.</description>
+      <link>https://github.com/facebook/create-react-app</link>
+      <pubDate>2018-01-28T18:19:12.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/69631?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>React [+96.7 stars this week]</title>
       <author>facebook</author>
       <description>A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
       <link>https://reactjs.org</link>
-      <pubDate>2018-01-21T17:37:55.000Z</pubDate>
+      <pubDate>2018-01-28T20:45:49.000Z</pubDate>
       <image>/logos/react.svg</image>
     </item>
     <item>
-      <title>Nerv [+88.1 stars this week]</title>
-      <author>NervJS</author>
-      <description>A blazing fast React alternative, compatible with IE8 and React 16.</description>
-      <link>https://nerv.aotu.io</link>
-      <pubDate>2018-01-18T05:49:44.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/30794937?v=3&amp;s=200</image>
+      <title>Axios [+75.3 stars this week]</title>
+      <author>axios</author>
+      <description>Promise based HTTP client for the browser and node.js</description>
+      <link>https://github.com/axios/axios</link>
+      <pubDate>2018-01-27T04:28:40.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/32372333?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Styled Components [+73.4 stars this week]</title>
+      <author>styled-components</author>
+      <description>Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅</description>
+      <link>http://styled-components.com</link>
+      <pubDate>2018-01-26T01:38:48.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/20658825?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Purgecss [+68.4 stars this week]</title>
+      <author>FullHuman</author>
+      <description>Remove unused css</description>
+      <link>https://www.purgecss.com</link>
+      <pubDate>2018-01-27T12:34:29.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/28688397?v=3&amp;s=200</image>
     </item>
   </channel>
 </rss>
