@@ -3,87 +3,87 @@
   <channel>
     <title>Best of JavaScript - Weekly trends</title>
     <link>http://bestof.js.org/projects/trending/this-week</link>
-    <pubDate>Mon Oct 16 2017 06:51:10 GMT+0900 (JST)</pubDate>
-    <lastBuildDate>Mon Oct 16 2017 06:51:10 GMT+0900 (JST)</lastBuildDate>
+    <pubDate>Sun Feb 04 2018 21:30:41 GMT+0000 (UTC)</pubDate>
+    <lastBuildDate>Sun Feb 04 2018 21:30:41 GMT+0000 (UTC)</lastBuildDate>
     <item>
-      <title>Every Programmer Should Know [+216 stars this week]</title>
-      <author>mr-mig</author>
-      <description>A collection of (mostly) technical things every software developer should know</description>
-      <link>https://github.com/mr-mig/every-programmer-should-know</link>
-      <pubDate>2017-10-15T04:24:03.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/1062491?v=3&amp;s=200</image>
+      <title>Project Guidelines [+242.6 stars this week]</title>
+      <author>wearehive</author>
+      <description>A set of best practices for JavaScript projects</description>
+      <link>https://github.com/wearehive/project-guidelines</link>
+      <pubDate>2018-02-02T03:16:22.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/7815827?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>React Static [+201.3 stars this week]</title>
-      <author>nozzle</author>
-      <description>⚛️ 🚀 A progressive static-site framework for React.</description>
-      <link>https://github.com/nozzle/react-static</link>
-      <pubDate>2017-10-15T19:38:24.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/5400727?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Modern JavaScript Cheatsheet [+155.4 stars this week]</title>
-      <author>mbeaudru</author>
-      <description>Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.</description>
-      <link>https://mbeaudru.github.io/modern-js-cheatsheet/</link>
-      <pubDate>2017-10-14T11:39:03.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/8942633?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Vue.JS [+135.4 stars this week]</title>
+      <title>Vue.js [+115.6 stars this week]</title>
       <author>vuejs</author>
-      <description>A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
+      <description>🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
       <link>http://vuejs.org</link>
-      <pubDate>2017-10-15T18:26:10.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/6128107?v=3&amp;s=200</image>
+      <pubDate>2018-02-04T04:49:12.000Z</pubDate>
+      <image>/logos/vue.svg</image>
     </item>
     <item>
-      <title>Draggable [+123 stars this week]</title>
-      <author>Shopify</author>
-      <description>The JavaScript Drag &amp; Drop library your grandparents warned you about.</description>
-      <link>https://shopify.github.io/draggable/</link>
-      <pubDate>2017-10-15T04:47:43.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/8085?v=3&amp;s=200</image>
+      <title>Purgecss [+98.9 stars this week]</title>
+      <author>FullHuman</author>
+      <description>Remove unused css</description>
+      <link>https://www.purgecss.com</link>
+      <pubDate>2018-01-30T23:22:46.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/28688397?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>React [+119.1 stars this week]</title>
-      <author>facebook</author>
-      <description>A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
-      <link>https://reactjs.org</link>
-      <pubDate>2017-10-15T17:05:35.000Z</pubDate>
-      <image>https://s3-us-west-2.amazonaws.com/svgporn.com/logos/react.svg</image>
+      <title>You Don't Know JS [+94.7 stars this week]</title>
+      <author>getify</author>
+      <description>A book series on JavaScript. @YDKJS on twitter.</description>
+      <link>http://www.kickstarter.com/projects/getify/you-dont-know-js-book-series</link>
+      <pubDate>2018-01-31T05:00:38.000Z</pubDate>
+      <image>/logos/js.svg</image>
     </item>
     <item>
-      <title>VS Code [+107 stars this week]</title>
-      <author>Microsoft</author>
-      <description>Visual Studio Code</description>
-      <link>https://code.visualstudio.com</link>
-      <pubDate>2017-10-15T17:56:53.000Z</pubDate>
-      <image>https://s3-us-west-2.amazonaws.com/svgporn.com/logos/visual-studio.svg</image>
-    </item>
-    <item>
-      <title>vuera [+94.6 stars this week]</title>
-      <author>akxcv</author>
-      <description>:eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:</description>
-      <link>https://github.com/akxcv/vuera</link>
-      <pubDate>2017-10-09T10:21:58.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/17192674?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Puppeteer [+76.9 stars this week]</title>
+      <title>Puppeteer [+91.4 stars this week]</title>
       <author>GoogleChrome</author>
       <description>Headless Chrome Node API</description>
-      <link>https://try-puppeteer.appspot.com/</link>
-      <pubDate>2017-10-15T05:57:57.000Z</pubDate>
+      <link>https://join.slack.com/t/puppeteer/shared_invite/enQtMzAyOTU1MzQyOTQ1LTUzOTAxNjE5YWI0YzNmYmRkN2I4MDg2MzI4OGE3YWNhZDBlYWMyNTlmOTJlN2RhYzlmODI4ZDQxZGEyMGIwNDY</link>
+      <pubDate>2018-02-04T20:53:15.000Z</pubDate>
       <image>https://avatars.githubusercontent.com/u/1778935?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Node.js [+62.3 stars this week]</title>
-      <author>nodejs</author>
-      <description>Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:</description>
-      <link>https://nodejs.org</link>
-      <pubDate>2017-10-15T20:54:56.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/9950313?v=3&amp;s=200</image>
+      <title>React [+86.7 stars this week]</title>
+      <author>facebook</author>
+      <description>A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <link>https://reactjs.org</link>
+      <pubDate>2018-02-04T17:34:20.000Z</pubDate>
+      <image>/logos/react.svg</image>
+    </item>
+    <item>
+      <title>Awesome [+78.1 stars this week]</title>
+      <author>sindresorhus</author>
+      <description>:sunglasses: Curated list of awesome lists</description>
+      <link>https://github.com/sindresorhus/awesome</link>
+      <pubDate>2018-02-04T02:47:15.000Z</pubDate>
+      <image>https://s3-us-west-2.amazonaws.com/svgporn.com/logos/awesome.svg</image>
+    </item>
+    <item>
+      <title>Airbnb Style Guide [+75.6 stars this week]</title>
+      <author>airbnb</author>
+      <description>JavaScript Style Guide</description>
+      <link>https://github.com/airbnb/javascript</link>
+      <pubDate>2018-02-04T13:41:42.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/698437?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Parcel [+71.7 stars this week]</title>
+      <author>parcel-bundler</author>
+      <description>📦🚀 Blazing fast, zero configuration web application bundler</description>
+      <link>https://parceljs.org</link>
+      <pubDate>2018-02-04T20:25:51.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/32607881?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>VS Code [+69.6 stars this week]</title>
+      <author>Microsoft</author>
+      <description>Visual Studio Code</description>
+      <link>https://code.visualstudio.com</link>
+      <pubDate>2018-02-04T20:59:03.000Z</pubDate>
+      <image>/logos/vscode.svg</image>
     </item>
   </channel>
 </rss>
