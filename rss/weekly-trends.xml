@@ -3,87 +3,87 @@
   <channel>
     <title>Best of JavaScript - Weekly trends</title>
     <link>http://bestof.js.org/projects/trending/this-week</link>
-    <pubDate>Sun Feb 11 2018 21:38:06 GMT+0000 (UTC)</pubDate>
-    <lastBuildDate>Sun Feb 11 2018 21:38:06 GMT+0000 (UTC)</lastBuildDate>
+    <pubDate>Sun Feb 18 2018 21:30:47 GMT+0000 (UTC)</pubDate>
+    <lastBuildDate>Sun Feb 18 2018 21:30:47 GMT+0000 (UTC)</lastBuildDate>
     <item>
-      <title>Vue.js [+121 stars this week]</title>
+      <title>Phaser [+186.3 stars this week]</title>
+      <author>photonstorm</author>
+      <description>Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.</description>
+      <link>http://phaser.io</link>
+      <pubDate>2018-02-18T18:44:06.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/164476?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>SweetAlert2 [+170.9 stars this week]</title>
+      <author>sweetalert2</author>
+      <description>A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.</description>
+      <link>https://sweetalert2.github.io/</link>
+      <pubDate>2018-02-18T13:21:01.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/35137722?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Rekit [+127.1 stars this week]</title>
+      <author>supnate</author>
+      <description>Toolkit for building scalable web applications with React, Redux and React-router</description>
+      <link>http://rekit.js.org</link>
+      <pubDate>2018-02-18T10:25:45.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/481738?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Automerge [+126.4 stars this week]</title>
+      <author>automerge</author>
+      <description>A JSON-like data structure that can be modified concurrently by different users, and merged again automatically.</description>
+      <link>https://github.com/automerge/automerge</link>
+      <pubDate>2018-02-15T21:46:24.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/29780209?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Tech Interview Handbook [+111.9 stars this week]</title>
+      <author>yangshun</author>
+      <description>💯 Algorithms study materials, behavioral content and tips for rocking your coding interview</description>
+      <link>https://github.com/yangshun/tech-interview-handbook</link>
+      <pubDate>2018-02-17T19:46:18.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/1315101?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Vue.js [+88 stars this week]</title>
       <author>vuejs</author>
       <description>🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
       <link>http://vuejs.org</link>
-      <pubDate>2018-02-09T18:20:14.000Z</pubDate>
+      <pubDate>2018-02-18T15:07:24.000Z</pubDate>
       <image>/logos/vue.svg</image>
     </item>
     <item>
-      <title>Puppeteer [+87.3 stars this week]</title>
-      <author>GoogleChrome</author>
-      <description>Headless Chrome Node API</description>
-      <link>https://join.slack.com/t/puppeteer/shared_invite/enQtMzAyOTU1MzQyOTQ1LTUzOTAxNjE5YWI0YzNmYmRkN2I4MDg2MzI4OGE3YWNhZDBlYWMyNTlmOTJlN2RhYzlmODI4ZDQxZGEyMGIwNDY</link>
-      <pubDate>2018-02-11T17:40:34.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/1778935?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>React [+79.9 stars this week]</title>
+      <title>React [+64.4 stars this week]</title>
       <author>facebook</author>
       <description>A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
       <link>https://reactjs.org</link>
-      <pubDate>2018-02-11T19:48:07.000Z</pubDate>
+      <pubDate>2018-02-18T12:46:02.000Z</pubDate>
       <image>/logos/react.svg</image>
     </item>
     <item>
-      <title>Awesome [+71.7 stars this week]</title>
-      <author>sindresorhus</author>
-      <description>:sunglasses: Curated list of awesome lists</description>
-      <link>https://github.com/sindresorhus/awesome</link>
-      <pubDate>2018-02-10T00:22:49.000Z</pubDate>
-      <image>https://s3-us-west-2.amazonaws.com/svgporn.com/logos/awesome.svg</image>
-    </item>
-    <item>
-      <title>VS Code [+70.6 stars this week]</title>
+      <title>VS Code [+63.1 stars this week]</title>
       <author>Microsoft</author>
       <description>Visual Studio Code</description>
       <link>https://code.visualstudio.com</link>
-      <pubDate>2018-02-11T20:22:29.000Z</pubDate>
+      <pubDate>2018-02-18T20:56:38.000Z</pubDate>
       <image>/logos/vscode.svg</image>
     </item>
     <item>
-      <title>Create React App [+65.7 stars this week]</title>
-      <author>facebook</author>
-      <description>Create React apps with no build configuration.</description>
-      <link>https://github.com/facebook/create-react-app</link>
-      <pubDate>2018-02-11T16:34:54.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/69631?v=3&amp;s=200</image>
+      <title>Awesome [+56.3 stars this week]</title>
+      <author>sindresorhus</author>
+      <description>:sunglasses: Curated list of awesome lists</description>
+      <link>https://github.com/sindresorhus/awesome</link>
+      <pubDate>2018-02-18T14:21:05.000Z</pubDate>
+      <image>https://s3-us-west-2.amazonaws.com/svgporn.com/logos/awesome.svg</image>
     </item>
     <item>
-      <title>30 seconds of code [+64.7 stars this week]</title>
-      <author>Chalarangelo</author>
-      <description>Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.</description>
-      <link>https://30secondsofcode.org/</link>
-      <pubDate>2018-02-11T20:20:42.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/8281875?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Axios [+62.9 stars this week]</title>
+      <title>Axios [+51.4 stars this week]</title>
       <author>axios</author>
       <description>Promise based HTTP client for the browser and node.js</description>
       <link>https://github.com/axios/axios</link>
-      <pubDate>2018-02-11T19:30:29.000Z</pubDate>
+      <pubDate>2018-02-17T16:28:48.000Z</pubDate>
       <image>https://avatars.githubusercontent.com/u/32372333?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Project Guidelines [+58 stars this week]</title>
-      <author>wearehive</author>
-      <description>A set of best practices for JavaScript projects</description>
-      <link>https://github.com/wearehive/project-guidelines</link>
-      <pubDate>2018-02-06T13:59:10.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/7815827?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Nest [+56.6 stars this week]</title>
-      <author>nestjs</author>
-      <description>A progressive Node.js framework for building efficient and scalable server-side applications on top of TypeScript &amp; JavaScript (ES6 / ES7 / ES8) heavily inspired by Angular 😻🚀</description>
-      <link>https://nestjs.com/</link>
-      <pubDate>2018-02-11T20:24:47.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/28507035?v=3&amp;s=200</image>
     </item>
   </channel>
 </rss>
