@@ -3,87 +3,87 @@
   <channel>
     <title>Best of JavaScript - Weekly trends</title>
     <link>http://bestof.js.org/projects/trending/this-week</link>
-    <pubDate>Sun Feb 25 2018 21:30:42 GMT+0000 (UTC)</pubDate>
-    <lastBuildDate>Sun Feb 25 2018 21:30:42 GMT+0000 (UTC)</lastBuildDate>
+    <pubDate>Sun Mar 04 2018 21:30:38 GMT+0000 (UTC)</pubDate>
+    <lastBuildDate>Sun Mar 04 2018 21:30:38 GMT+0000 (UTC)</lastBuildDate>
     <item>
-      <title>Vue.js [+98.9 stars this week]</title>
+      <title>Propel [+139.3 stars this week]</title>
+      <author>propelml</author>
+      <description>Differential Programming in JavaScript.</description>
+      <link>http://propelml.org/</link>
+      <pubDate>2018-03-04T20:52:15.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/33702266?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Vue.js [+98.3 stars this week]</title>
       <author>vuejs</author>
       <description>🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
       <link>http://vuejs.org</link>
-      <pubDate>2018-02-23T11:45:32.000Z</pubDate>
+      <pubDate>2018-03-04T13:44:39.000Z</pubDate>
       <image>/logos/vue.svg</image>
     </item>
     <item>
-      <title>Tech Interview Handbook [+90.6 stars this week]</title>
-      <author>yangshun</author>
-      <description>💯 Algorithms study materials, behavioral content and tips for rocking your coding interview</description>
-      <link>https://github.com/yangshun/tech-interview-handbook</link>
-      <pubDate>2018-02-25T01:36:33.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/1315101?v=3&amp;s=200</image>
+      <title>Webpack [+96.1 stars this week]</title>
+      <author>webpack</author>
+      <description>A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.</description>
+      <link>https://webpack.js.org</link>
+      <pubDate>2018-03-04T10:57:30.000Z</pubDate>
+      <image>/logos/webpack.svg</image>
     </item>
     <item>
-      <title>React [+70.4 stars this week]</title>
+      <title>React [+86.9 stars this week]</title>
       <author>facebook</author>
       <description>A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
       <link>https://reactjs.org</link>
-      <pubDate>2018-02-25T08:07:20.000Z</pubDate>
+      <pubDate>2018-03-04T18:05:13.000Z</pubDate>
       <image>/logos/react.svg</image>
     </item>
     <item>
-      <title>You Don't Know JS [+70.4 stars this week]</title>
-      <author>getify</author>
-      <description>A book series on JavaScript. @YDKJS on twitter.</description>
-      <link>http://www.kickstarter.com/projects/getify/you-dont-know-js-book-series</link>
-      <pubDate>2018-02-25T16:46:26.000Z</pubDate>
-      <image>/logos/js.svg</image>
-    </item>
-    <item>
-      <title>Puppeteer [+65.3 stars this week]</title>
-      <author>GoogleChrome</author>
-      <description>Headless Chrome Node API</description>
-      <link>https://join.slack.com/t/puppeteer/shared_invite/enQtMzAyOTU1MzQyOTQ1LTUzOTAxNjE5YWI0YzNmYmRkN2I4MDg2MzI4OGE3YWNhZDBlYWMyNTlmOTJlN2RhYzlmODI4ZDQxZGEyMGIwNDY</link>
-      <pubDate>2018-02-24T07:02:29.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/1778935?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Awesome [+61 stars this week]</title>
+      <title>Awesome [+81.1 stars this week]</title>
       <author>sindresorhus</author>
       <description>:sunglasses: Curated list of awesome lists</description>
       <link>https://github.com/sindresorhus/awesome</link>
-      <pubDate>2018-02-25T00:58:14.000Z</pubDate>
+      <pubDate>2018-03-03T17:25:17.000Z</pubDate>
       <image>https://s3-us-west-2.amazonaws.com/svgporn.com/logos/awesome.svg</image>
     </item>
     <item>
-      <title>Phaser [+60.4 stars this week]</title>
-      <author>photonstorm</author>
-      <description>Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.</description>
-      <link>http://phaser.io</link>
-      <pubDate>2018-02-25T13:16:21.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/164476?v=3&amp;s=200</image>
+      <title>Puppeteer [+81 stars this week]</title>
+      <author>GoogleChrome</author>
+      <description>Headless Chrome Node API</description>
+      <link>https://join.slack.com/t/puppeteer/shared_invite/enQtMzAyOTU1MzQyOTQ1LTUzOTAxNjE5YWI0YzNmYmRkN2I4MDg2MzI4OGE3YWNhZDBlYWMyNTlmOTJlN2RhYzlmODI4ZDQxZGEyMGIwNDY</link>
+      <pubDate>2018-03-03T00:29:47.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/1778935?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>SweetAlert2 [+60.4 stars this week]</title>
-      <author>sweetalert2</author>
-      <description>A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.</description>
-      <link>https://sweetalert2.github.io/</link>
-      <pubDate>2018-02-25T15:12:03.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/35137722?v=3&amp;s=200</image>
+      <title>Rematch [+79 stars this week]</title>
+      <author>rematch</author>
+      <description>A Redux Framework</description>
+      <link>https://rematch.gitbooks.io/rematch</link>
+      <pubDate>2018-03-04T19:07:39.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/32424830?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Axios [+58 stars this week]</title>
-      <author>axios</author>
-      <description>Promise based HTTP client for the browser and node.js</description>
-      <link>https://github.com/axios/axios</link>
-      <pubDate>2018-02-25T09:54:41.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/32372333?v=3&amp;s=200</image>
+      <title>unstated [+74.4 stars this week]</title>
+      <author>jamiebuilds</author>
+      <description>State so simple, it goes without saying</description>
+      <link>http://unstated.io</link>
+      <pubDate>2018-03-04T20:20:54.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/952783?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Create React App [+57.4 stars this week]</title>
+      <title>Create React App [+72.9 stars this week]</title>
       <author>facebook</author>
       <description>Create React apps with no build configuration.</description>
       <link>https://github.com/facebook/create-react-app</link>
-      <pubDate>2018-02-25T04:53:17.000Z</pubDate>
+      <pubDate>2018-03-03T02:46:56.000Z</pubDate>
       <image>https://avatars.githubusercontent.com/u/69631?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>30 seconds of code [+72 stars this week]</title>
+      <author>Chalarangelo</author>
+      <description>Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.</description>
+      <link>https://30secondsofcode.org/</link>
+      <pubDate>2018-03-04T20:32:02.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/8281875?v=3&amp;s=200</image>
     </item>
   </channel>
 </rss>
