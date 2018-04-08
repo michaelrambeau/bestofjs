@@ -3,58 +3,34 @@
   <channel>
     <title>Best of JavaScript - Weekly trends</title>
     <link>http://bestof.js.org/projects/trending/this-week</link>
-    <pubDate>Sun Apr 01 2018 21:31:28 GMT+0000 (UTC)</pubDate>
-    <lastBuildDate>Sun Apr 01 2018 21:31:28 GMT+0000 (UTC)</lastBuildDate>
+    <pubDate>Sun Apr 08 2018 21:30:42 GMT+0000 (UTC)</pubDate>
+    <lastBuildDate>Sun Apr 08 2018 21:30:42 GMT+0000 (UTC)</lastBuildDate>
     <item>
-      <title>Popmotion [+245.1 stars this week]</title>
+      <title>Popmotion [+108.7 stars this week]</title>
       <author>Popmotion</author>
       <description>A functional, reactive animation library.</description>
       <link>https://popmotion.io</link>
-      <pubDate>2018-04-01T14:49:29.000Z</pubDate>
+      <pubDate>2018-04-08T09:03:50.000Z</pubDate>
       <image>https://avatars.githubusercontent.com/u/14272617?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Vue.js [+132.6 stars this week]</title>
+      <title>Vue.js [+107 stars this week]</title>
       <author>vuejs</author>
       <description>🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
       <link>http://vuejs.org</link>
-      <pubDate>2018-04-01T15:49:52.000Z</pubDate>
+      <pubDate>2018-04-08T16:03:21.000Z</pubDate>
       <image>/logos/vue.svg</image>
     </item>
     <item>
-      <title>brain [+122 stars this week]</title>
-      <author>BrainJS</author>
-      <description>🤖 Neural networks in JavaScript</description>
-      <link>http://brain.js.org</link>
-      <pubDate>2018-03-30T21:42:11.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/23732838?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Awesome [+97.3 stars this week]</title>
-      <author>sindresorhus</author>
-      <description>:sunglasses: Curated list of awesome lists</description>
-      <link>https://github.com/sindresorhus/awesome</link>
-      <pubDate>2018-04-01T15:25:51.000Z</pubDate>
-      <image>https://s3-us-west-2.amazonaws.com/svgporn.com/logos/awesome.svg</image>
-    </item>
-    <item>
-      <title>React [+90.3 stars this week]</title>
+      <title>React [+94.1 stars this week]</title>
       <author>facebook</author>
       <description>A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
       <link>https://reactjs.org</link>
-      <pubDate>2018-04-01T18:10:39.000Z</pubDate>
+      <pubDate>2018-04-08T20:36:23.000Z</pubDate>
       <image>/logos/react.svg</image>
     </item>
     <item>
-      <title>Ant Design [+71.6 stars this week]</title>
-      <author>ant-design</author>
-      <description>🐜 A UI Design Language</description>
-      <link>http://ant.design</link>
-      <pubDate>2018-04-01T19:09:32.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/12101536?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>You Don't Know JS [+70.1 stars this week]</title>
+      <title>You Don't Know JS [+91 stars this week]</title>
       <author>getify</author>
       <description>A book series on JavaScript. @YDKJS on twitter.</description>
       <link>http://www.kickstarter.com/projects/getify/you-dont-know-js-book-series</link>
@@ -62,27 +38,51 @@
       <image>/logos/js.svg</image>
     </item>
     <item>
-      <title>Axios [+66 stars this week]</title>
-      <author>axios</author>
-      <description>Promise based HTTP client for the browser and node.js</description>
-      <link>https://github.com/axios/axios</link>
-      <pubDate>2018-03-28T09:44:23.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/32372333?v=3&amp;s=200</image>
+      <title>Awesome [+69 stars this week]</title>
+      <author>sindresorhus</author>
+      <description>:sunglasses: Curated list of awesome lists</description>
+      <link>https://github.com/sindresorhus/awesome</link>
+      <pubDate>2018-04-08T10:54:32.000Z</pubDate>
+      <image>https://s3-us-west-2.amazonaws.com/svgporn.com/logos/awesome.svg</image>
     </item>
     <item>
-      <title>Create React App [+64.7 stars this week]</title>
+      <title>Create React App [+62 stars this week]</title>
       <author>facebook</author>
       <description>Create React apps with no build configuration.</description>
       <link>https://github.com/facebook/create-react-app</link>
-      <pubDate>2018-04-01T08:39:23.000Z</pubDate>
+      <pubDate>2018-04-07T10:23:58.000Z</pubDate>
       <image>https://avatars.githubusercontent.com/u/69631?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Driver.js [+64.6 stars this week]</title>
+      <title>Axios [+57.6 stars this week]</title>
+      <author>axios</author>
+      <description>Promise based HTTP client for the browser and node.js</description>
+      <link>https://github.com/axios/axios</link>
+      <pubDate>2018-04-08T07:19:47.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/32372333?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Airbnb Style Guide [+56 stars this week]</title>
+      <author>airbnb</author>
+      <description>JavaScript Style Guide</description>
+      <link>https://github.com/airbnb/javascript</link>
+      <pubDate>2018-04-08T19:51:53.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/698437?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>VS Code [+54.1 stars this week]</title>
+      <author>Microsoft</author>
+      <description>Visual Studio Code</description>
+      <link>https://code.visualstudio.com</link>
+      <pubDate>2018-04-08T20:03:56.000Z</pubDate>
+      <image>/logos/vscode.svg</image>
+    </item>
+    <item>
+      <title>Driver.js [+54.1 stars this week]</title>
       <author>kamranahmedse</author>
       <description>A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page</description>
       <link>http://kamranahmed.info/driver</link>
-      <pubDate>2018-04-01T13:46:59.000Z</pubDate>
+      <pubDate>2018-04-06T09:56:33.000Z</pubDate>
       <image>https://avatars.githubusercontent.com/u/4921183?v=3&amp;s=200</image>
     </item>
   </channel>
