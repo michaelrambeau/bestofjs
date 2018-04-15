@@ -3,87 +3,87 @@
   <channel>
     <title>Best of JavaScript - Weekly trends</title>
     <link>http://bestof.js.org/projects/trending/this-week</link>
-    <pubDate>Sun Apr 08 2018 21:30:42 GMT+0000 (UTC)</pubDate>
-    <lastBuildDate>Sun Apr 08 2018 21:30:42 GMT+0000 (UTC)</lastBuildDate>
+    <pubDate>Sun Apr 15 2018 21:30:41 GMT+0000 (UTC)</pubDate>
+    <lastBuildDate>Sun Apr 15 2018 21:30:41 GMT+0000 (UTC)</lastBuildDate>
     <item>
-      <title>Popmotion [+108.7 stars this week]</title>
-      <author>Popmotion</author>
-      <description>A functional, reactive animation library.</description>
-      <link>https://popmotion.io</link>
-      <pubDate>2018-04-08T09:03:50.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/14272617?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Vue.js [+107 stars this week]</title>
+      <title>Vue.js [+144.4 stars this week]</title>
       <author>vuejs</author>
       <description>🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
       <link>http://vuejs.org</link>
-      <pubDate>2018-04-08T16:03:21.000Z</pubDate>
+      <pubDate>2018-04-14T14:10:36.000Z</pubDate>
       <image>/logos/vue.svg</image>
     </item>
     <item>
-      <title>React [+94.1 stars this week]</title>
-      <author>facebook</author>
-      <description>A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
-      <link>https://reactjs.org</link>
-      <pubDate>2018-04-08T20:36:23.000Z</pubDate>
-      <image>/logos/react.svg</image>
-    </item>
-    <item>
-      <title>You Don't Know JS [+91 stars this week]</title>
+      <title>You Don't Know JS [+109.9 stars this week]</title>
       <author>getify</author>
       <description>A book series on JavaScript. @YDKJS on twitter.</description>
       <link>http://www.kickstarter.com/projects/getify/you-dont-know-js-book-series</link>
-      <pubDate>2018-03-22T19:12:08.000Z</pubDate>
+      <pubDate>2018-04-14T17:40:49.000Z</pubDate>
       <image>/logos/js.svg</image>
     </item>
     <item>
-      <title>Awesome [+69 stars this week]</title>
-      <author>sindresorhus</author>
-      <description>:sunglasses: Curated list of awesome lists</description>
-      <link>https://github.com/sindresorhus/awesome</link>
-      <pubDate>2018-04-08T10:54:32.000Z</pubDate>
-      <image>https://s3-us-west-2.amazonaws.com/svgporn.com/logos/awesome.svg</image>
+      <title>TensorFlow.js [+107.7 stars this week]</title>
+      <author>tensorflow</author>
+      <description>A WebGL accelerated, browser based JavaScript library for training and deploying ML models.</description>
+      <link>https://js.tensorflow.org</link>
+      <pubDate>2018-04-12T20:12:54.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/15658638?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Create React App [+62 stars this week]</title>
+      <title>React [+87.9 stars this week]</title>
       <author>facebook</author>
-      <description>Create React apps with no build configuration.</description>
-      <link>https://github.com/facebook/create-react-app</link>
-      <pubDate>2018-04-07T10:23:58.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/69631?v=3&amp;s=200</image>
+      <description>A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <link>https://reactjs.org</link>
+      <pubDate>2018-04-14T11:00:44.000Z</pubDate>
+      <image>/logos/react.svg</image>
     </item>
     <item>
-      <title>Axios [+57.6 stars this week]</title>
-      <author>axios</author>
-      <description>Promise based HTTP client for the browser and node.js</description>
-      <link>https://github.com/axios/axios</link>
-      <pubDate>2018-04-08T07:19:47.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/32372333?v=3&amp;s=200</image>
+      <title>Glide [+78.6 stars this week]</title>
+      <author>glidejs</author>
+      <description>A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more</description>
+      <link>https://glidejs.com</link>
+      <pubDate>2018-04-09T18:44:59.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/37380006?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Airbnb Style Guide [+56 stars this week]</title>
-      <author>airbnb</author>
-      <description>JavaScript Style Guide</description>
-      <link>https://github.com/airbnb/javascript</link>
-      <pubDate>2018-04-08T19:51:53.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/698437?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>VS Code [+54.1 stars this week]</title>
+      <title>VS Code [+76.7 stars this week]</title>
       <author>Microsoft</author>
       <description>Visual Studio Code</description>
       <link>https://code.visualstudio.com</link>
-      <pubDate>2018-04-08T20:03:56.000Z</pubDate>
+      <pubDate>2018-04-15T20:41:33.000Z</pubDate>
       <image>/logos/vscode.svg</image>
     </item>
     <item>
-      <title>Driver.js [+54.1 stars this week]</title>
-      <author>kamranahmedse</author>
-      <description>A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page</description>
-      <link>http://kamranahmed.info/driver</link>
-      <pubDate>2018-04-06T09:56:33.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/4921183?v=3&amp;s=200</image>
+      <title>Awesome [+75.9 stars this week]</title>
+      <author>sindresorhus</author>
+      <description>:sunglasses: Curated list of awesome lists</description>
+      <link>https://github.com/sindresorhus/awesome</link>
+      <pubDate>2018-04-15T20:32:55.000Z</pubDate>
+      <image>https://s3-us-west-2.amazonaws.com/svgporn.com/logos/awesome.svg</image>
+    </item>
+    <item>
+      <title>Puppeteer [+67.9 stars this week]</title>
+      <author>GoogleChrome</author>
+      <description>Headless Chrome Node API</description>
+      <link>https://join.slack.com/t/puppeteer/shared_invite/enQtMzAyOTU1MzQyOTQ1LTUzOTAxNjE5YWI0YzNmYmRkN2I4MDg2MzI4OGE3YWNhZDBlYWMyNTlmOTJlN2RhYzlmODI4ZDQxZGEyMGIwNDY</link>
+      <pubDate>2018-04-14T18:51:51.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/1778935?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Axios [+63.3 stars this week]</title>
+      <author>axios</author>
+      <description>Promise based HTTP client for the browser and node.js</description>
+      <link>https://github.com/axios/axios</link>
+      <pubDate>2018-04-15T14:59:32.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/32372333?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Create React App [+58.1 stars this week]</title>
+      <author>facebook</author>
+      <description>Create React apps with no build configuration.</description>
+      <link>https://github.com/facebook/create-react-app</link>
+      <pubDate>2018-04-15T20:12:03.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/69631?v=3&amp;s=200</image>
     </item>
   </channel>
 </rss>
