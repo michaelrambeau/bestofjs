@@ -3,26 +3,58 @@
   <channel>
     <title>Best of JavaScript - Weekly trends</title>
     <link>http://bestof.js.org/projects/trending/this-week</link>
-    <pubDate>Sun Apr 22 2018 21:30:49 GMT+0000 (UTC)</pubDate>
-    <lastBuildDate>Sun Apr 22 2018 21:30:49 GMT+0000 (UTC)</lastBuildDate>
+    <pubDate>Sun Apr 29 2018 21:30:53 GMT+0000 (UTC)</pubDate>
+    <lastBuildDate>Sun Apr 29 2018 21:30:53 GMT+0000 (UTC)</lastBuildDate>
     <item>
-      <title>Tabler [+276.9 stars this week]</title>
+      <title>React in Patterns [+286.6 stars this week]</title>
+      <author>krasimir</author>
+      <description>A free book that talks about design patterns/techniques used while developing with React.</description>
+      <link>https://www.gitbook.com/book/krasimir/react-in-patterns/</link>
+      <pubDate>2018-04-29T12:32:47.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/528677?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>VuePress [+136 stars this week]</title>
+      <author>vuejs</author>
+      <description>📝 Minimalistic Vue-powered static site generator</description>
+      <link>https://vuepress.vuejs.org/</link>
+      <pubDate>2018-04-29T10:14:15.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/6128107?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Vue.js [+121.6 stars this week]</title>
+      <author>vuejs</author>
+      <description>🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
+      <link>http://vuejs.org</link>
+      <pubDate>2018-04-28T04:04:18.000Z</pubDate>
+      <image>/logos/vue.svg</image>
+    </item>
+    <item>
+      <title>Tabler [+117.6 stars this week]</title>
       <author>tabler</author>
       <description>Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4</description>
       <link>https://tabler.github.io/</link>
-      <pubDate>2018-04-22T17:31:18.000Z</pubDate>
+      <pubDate>2018-04-27T20:54:52.000Z</pubDate>
       <image>https://avatars.githubusercontent.com/u/35471246?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Text Mask [+233.7 stars this week]</title>
+      <title>Express [+108.6 stars this week]</title>
+      <author>expressjs</author>
+      <description>Fast, unopinionated, minimalist web framework for node.</description>
+      <link>https://expressjs.com</link>
+      <pubDate>2018-04-26T03:28:17.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/5658226?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Text Mask [+82.6 stars this week]</title>
       <author>text-mask</author>
       <description>Input mask for React, Angular, Ember, Vue, &amp; plain JavaScript</description>
       <link>https://text-mask.github.io/text-mask/</link>
-      <pubDate>2018-04-20T21:26:03.000Z</pubDate>
+      <pubDate>2018-04-29T18:50:03.000Z</pubDate>
       <image>https://avatars.githubusercontent.com/u/21117230?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>Mermaid [+163.4 stars this week]</title>
+      <title>Mermaid [+81.7 stars this week]</title>
       <author>knsv</author>
       <description>Generation of diagram and flowchart from text in a similar manner as markdown</description>
       <link>http://knsv.github.io/mermaid/</link>
@@ -30,60 +62,28 @@
       <image>https://avatars.githubusercontent.com/u/5837277?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>react-spring [+162.6 stars this week]</title>
-      <author>drcmda</author>
-      <description>🙌 Helping react-motion and animated to become best friends</description>
-      <link>http://react-spring.surge.sh/</link>
-      <pubDate>2018-04-20T17:09:23.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/2223602?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>Vue.js [+133.1 stars this week]</title>
-      <author>vuejs</author>
-      <description>🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
-      <link>http://vuejs.org</link>
-      <pubDate>2018-04-22T09:35:24.000Z</pubDate>
-      <image>/logos/vue.svg</image>
-    </item>
-    <item>
-      <title>Front-End Developer Handbook 2018 [+103.3 stars this week]</title>
-      <author>FrontendMasters</author>
-      <description>2018 edition of our front-end development handbook</description>
-      <link>https://frontendmasters.com/books/front-end-handbook/2018/</link>
-      <pubDate>2018-04-20T16:33:11.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/5613852?v=3&amp;s=200</image>
-    </item>
-    <item>
-      <title>React [+83.6 stars this week]</title>
+      <title>React [+78.3 stars this week]</title>
       <author>facebook</author>
       <description>A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
       <link>https://reactjs.org</link>
-      <pubDate>2018-04-22T15:37:28.000Z</pubDate>
+      <pubDate>2018-04-28T19:58:10.000Z</pubDate>
       <image>/logos/react.svg</image>
     </item>
     <item>
-      <title>Awesome [+74.9 stars this week]</title>
-      <author>sindresorhus</author>
-      <description>:sunglasses: Curated list of awesome lists</description>
-      <link>https://github.com/sindresorhus/awesome</link>
-      <pubDate>2018-04-21T09:51:06.000Z</pubDate>
-      <image>https://s3-us-west-2.amazonaws.com/svgporn.com/logos/awesome.svg</image>
+      <title>react-dates [+77.3 stars this week]</title>
+      <author>airbnb</author>
+      <description>An easily internationalizable, mobile-friendly datepicker library for the web</description>
+      <link>http://airbnb.io/react-dates</link>
+      <pubDate>2018-04-27T19:27:35.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/698437?v=3&amp;s=200</image>
     </item>
     <item>
-      <title>You Don't Know JS [+67.4 stars this week]</title>
-      <author>getify</author>
-      <description>A book series on JavaScript. @YDKJS on twitter.</description>
-      <link>http://www.kickstarter.com/projects/getify/you-dont-know-js-book-series</link>
-      <pubDate>2018-04-14T17:40:49.000Z</pubDate>
-      <image>/logos/js.svg</image>
-    </item>
-    <item>
-      <title>Axios [+64.7 stars this week]</title>
-      <author>axios</author>
-      <description>Promise based HTTP client for the browser and node.js</description>
-      <link>https://github.com/axios/axios</link>
-      <pubDate>2018-04-19T03:28:33.000Z</pubDate>
-      <image>https://avatars.githubusercontent.com/u/32372333?v=3&amp;s=200</image>
+      <title>Permit [+77 stars this week]</title>
+      <author>ianstormtaylor</author>
+      <description>An unopinionated authentication library for building Node.js APIs.</description>
+      <link>https://github.com/ianstormtaylor/permit</link>
+      <pubDate>2018-04-29T14:15:01.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/311752?v=3&amp;s=200</image>
     </item>
   </channel>
 </rss>
