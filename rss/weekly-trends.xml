@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Best of JavaScript - Weekly trends</title>
+    <link>http://bestof.js.org/projects/trending/this-week</link>
+    <pubDate>Sat May 12 2018 15:14:07 GMT+0900 (JST)</pubDate>
+    <lastBuildDate>Sat May 12 2018 15:14:07 GMT+0900 (JST)</lastBuildDate>
+    <item>
+      <title>ReLaXed [+299.4 stars this week]</title>
+      <author>RelaxedJS</author>
+      <description>Create PDF documents using web technologies</description>
+      <link>https://github.com/RelaxedJS/ReLaXed</link>
+      <pubDate>2018-05-10T09:54:15.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/37601651?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Proton Native [+191.3 stars this week]</title>
+      <author>kusti8</author>
+      <description>A React environment for cross platform native desktop apps</description>
+      <link>https://proton-native.js.org</link>
+      <pubDate>2018-05-11T20:28:40.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/9812956?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Day.js [+168.1 stars this week]</title>
+      <author>xx45</author>
+      <description>⏰Fast 2KB immutable date library alternative to Moment.js with the same modern API</description>
+      <link>https://github.com/xx45/dayjs</link>
+      <pubDate>2018-05-11T18:34:49.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/30564946?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>ToastUI Calendar [+125.6 stars this week]</title>
+      <author>nhnent</author>
+      <description>🍞📅A JavaScript calendar that everything you need.</description>
+      <link>http://ui.toast.com/tui-calendar</link>
+      <pubDate>2018-05-11T13:34:54.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/7907400?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Tabler [+99.4 stars this week]</title>
+      <author>tabler</author>
+      <description>Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4</description>
+      <link>https://tabler.github.io/</link>
+      <pubDate>2018-05-11T18:08:14.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/35471246?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>Vue.js [+97.4 stars this week]</title>
+      <author>vuejs</author>
+      <description>🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.</description>
+      <link>http://vuejs.org</link>
+      <pubDate>2018-05-11T09:38:32.000Z</pubDate>
+      <image>/logos/vue.svg</image>
+    </item>
+    <item>
+      <title>Big [+90 stars this week]</title>
+      <author>tmcw</author>
+      <description>presentations for busy messy hackers</description>
+      <link>http://macwright.org/big/demo.html</link>
+      <pubDate>2018-05-11T20:45:09.000Z</pubDate>
+      <image>https://avatars.githubusercontent.com/u/32314?v=3&amp;s=200</image>
+    </item>
+    <item>
+      <title>React [+71 stars this week]</title>
+      <author>facebook</author>
+      <description>A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <link>https://reactjs.org</link>
+      <pubDate>2018-05-11T20:45:36.000Z</pubDate>
+      <image>/logos/react.svg</image>
+    </item>
+    <item>
+      <title>VS Code [+65.4 stars this week]</title>
+      <author>Microsoft</author>
+      <description>Visual Studio Code</description>
+      <link>https://code.visualstudio.com</link>
+      <pubDate>2018-05-11T21:00:17.000Z</pubDate>
+      <image>/logos/vscode.svg</image>
+    </item>
+    <item>
+      <title>Awesome [+62.9 stars this week]</title>
+      <author>sindresorhus</author>
+      <description>:sunglasses: Curated list of awesome lists</description>
+      <link>https://github.com/sindresorhus/awesome</link>
+      <pubDate>2018-05-11T07:13:41.000Z</pubDate>
+      <image>https://s3-us-west-2.amazonaws.com/svgporn.com/logos/awesome.svg</image>
+    </item>
+  </channel>
+</rss>
