@@ -1,6 +1,6 @@
 ---
 name: Add a project to Best of JavaScript
-about: Suggesting a new project to track in Best of JavaScript
+about: Suggest a popular project to track in Best of JavaScript
 title: ''
 labels: ''
 assignees: ''
