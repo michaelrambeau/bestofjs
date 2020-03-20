@@ -11,7 +11,9 @@ Best of JavaScript is for the most popular open-source projects related to the w
 
 Before submitting the request to add a new project, please check the following points:
 
-- [ ] The project is related to the web platform and/or Node.js
-- [ ] The project has more than 50 stars on GitHub
-- [ ] The project has a thorough documentation
-- [ ] The project is not deprecated and still maintained
+- [ ] The project is related to the web platform or Node.js
+- [ ] The project has more than 100 stars on GitHub
+- [ ] The project has a thorough documentation in English
+- [ ] The project is not deprecated and actively maintained
+
+How would this project be tagged? (_Pick one or several existing tags_)
