@@ -13,7 +13,7 @@ Before submitting the request to add a new project, please check the following p
 
 - [ ] The project is related to the web platform or Node.js
 - [ ] The project has more than 100 stars on GitHub
-- [ ] The project has a thorough documentation in English
+- [ ] The project has thorough documentation in English
 - [ ] The project is not deprecated and actively maintained
 
 How would this project be tagged? (_Pick one or several existing tags_)
