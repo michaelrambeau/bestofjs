@@ -1,7 +1,7 @@
 ---
 name: Add a project to Best of JavaScript
 about: Suggest a popular project to track in Best of JavaScript
-title: ''
+title: 'Add <project name> to Best of JS'
 labels: ''
 assignees: ''
 
@@ -16,4 +16,4 @@ Before submitting the request to add a new project, please check the following p
 - [ ] The project has thorough documentation in English
 - [ ] The project is not deprecated and actively maintained
 
-How would this project be tagged? (_Pick one or several existing tags_)
+How would this project be tagged? (Pick one or several existing tags from this list: https://bestofjs.org/tags)
