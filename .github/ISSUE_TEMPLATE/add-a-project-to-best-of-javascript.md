@@ -17,3 +17,6 @@ Before submitting the request to add a new project, please check the following p
 - [ ] The project is not deprecated and actively maintained
 
 How would this project be tagged? (Pick one or several existing tags from this list: https://bestofjs.org/tags)
+
+## Review Process
+After you submit your project the members of Best of JS will respond with 👍 or 👎, and will provide feedback about your project. Once a consensus has been reached your project will either be approved and added to Best of JS, or it will be rejected until you have addressed the areas of your project that could be improved.
