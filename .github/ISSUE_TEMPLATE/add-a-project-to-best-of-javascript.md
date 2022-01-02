@@ -6,8 +6,10 @@ labels: ''
 assignees: ''
 
 ---
-
-Best of JavaScript is for the most popular open-source projects related to the web platform and Node.js.
+  
+_Best of JS_ is for the most popular open-source projects related to the web platform and Node.js.
+  
+What is the URL of the project you'd like to add to _Best of JS_? 
 
 Before submitting the request to add a new project, please check the following points:
 
@@ -17,6 +19,5 @@ Before submitting the request to add a new project, please check the following p
 - [ ] The project is not deprecated and actively maintained
 
 How would this project be tagged? (Pick one or several existing tags from this list: https://bestofjs.org/tags)
-
-## Review Process
-After you submit your project the members of Best of JS will respond with 👍 or 👎, and will provide feedback about your project. Once a consensus has been reached your project will either be approved and added to Best of JS, or it will be rejected until you have addressed the areas of your project that could be improved.
+  
+Also you can suggest new tags to add if you think _Best of JS_ is missing useful tags.  
