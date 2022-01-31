@@ -1,37 +1,61 @@
+html,
 body {
+  height: 100%;
+}
+body {
+  padding: 0;
   margin: 0;
-  font-family: sans-serif;
-  background-color: #ececec;
-  color: #555;
-}
-header {
-  height: 60px;
-  background-color: white;
-}
-header .container {
+  font-size: 16px;
   display: flex;
+  justify-content: center;
   align-items: center;
-  justify-content: flex-start;
-  height: 60px;
-}
-.container {
-  max-width: 1000px;
-  margin: 0 auto;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica,
+    Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  background-color: #333;
+  color: rgba(255, 255, 255, 0.8);
+  flex-direction: column;
 }
 main {
-  padding-top: 0rem;
-  font-size: 20px;
+  text-align: center;
+  max-width: 600px;
+  background-color: #444;
+  padding: 1rem;
+  border-radius: 8px;
 }
-footer {
-  font-size: 18px;
+p {
+  margin: 1.5rem 0 0;
+}
+svg {
+  max-width: 400px;
+}
+@media (min-width: 800px) {
+  body {
+    font-size: 20px;
+  }
+  main {
+    padding: 2rem;
+  }
+  p {
+    margin: 2rem 0 0;
+  }
+}
+.btn {
+  display: block;
+  background-color: #b8561f;
+  color: rgba(255, 255, 255, 0.9);
+  padding: 1rem 0;
+  border-radius: 4px;
+  transition: all 0.3s;
+}
+.btn:hover {
+  color: white;
+  background-color: #db6a20;
+  text-decoration: none;
 }
 a {
-  color: #e65100;
+  color: #e2a04f;
   text-decoration: none;
 }
 a:hover {
-  color: #9e0142;
-}
-hr {
-  border: 1px dashed #ffae63;
+  text-decoration: underline;
 }
