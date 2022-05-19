@@ -9,15 +9,17 @@ assignees: ''
   
 _Best of JS_ is for the most popular open-source projects related to the web platform and Node.js.
   
-What is the URL of the project you'd like to add to _Best of JS_? 
+**Please briefly describe the project you'd like to add to _Best of JS_?**
 
-Before submitting the request to add a new project, please check the following points:
+**What is the URL of the project you'd like to add to _Best of JS_?**
+
+**Before submitting the request to add a new project, please check the following points:**
 
 - [ ] The project is related to the web platform or Node.js
 - [ ] The project has more than 100 stars on GitHub
 - [ ] The project has thorough documentation in English
 - [ ] The project is not deprecated and actively maintained
 
-How would this project be tagged? (Pick one or several existing tags from this list: https://bestofjs.org/tags)
+**How would this project be tagged? (Pick one or several existing tags from this list: https://bestofjs.org/tags)**
   
-Also you can suggest new tags to add if you think _Best of JS_ is missing useful tags.  
+**Also you can suggest new tags to add if you think _Best of JS_ is missing useful tags.**
